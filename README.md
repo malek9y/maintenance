@@ -44,7 +44,7 @@ of the Software Evolution course.
 ---
 
 ## Ticketing System
-Change requests are tracked on [ https://unitime-maintenance.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiMTgzMWUwYTA3NzFkNGYzZjk2MmM4YTRhMmEyODZjODUiLCJwIjoiaiJ9 ].
+Change requests are tracked on jira [ https://unitime-maintenance.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiNzA1Nzk5NmFhYzE1NDM2YThmOTIyM2JmMzgwOWFiYzIiLCJwIjoiaiJ9 ].
 
 ---
 
