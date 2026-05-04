@@ -7,7 +7,9 @@
 
 
 | Youssef Hamed   | Password Strength Validator |
+
 | Andrew Nabil    | Room Capacity Validation Bug Fix |
+
 | Malek Taha      | Email Notification on Conflict |
 
 ---
@@ -34,7 +36,9 @@ of the Software Evolution course.
 
 
 | CR-001 | New Feature | Password Strength Validator               | Youssef Hamed | In Progress |
+
 | CR-002 | Bug Fix | Room Capacity vs Class Limit Validation       | Andrew Nabil | In Progress |
+
 | CR-003 | New Feature | Email Notification on Scheduling Conflict | Malek Taha | Open |
 
 ---
